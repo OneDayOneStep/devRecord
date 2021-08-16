@@ -1,9 +1,9 @@
 ### VueRouter 区分 403 和 404
 ---
 
-- [x] Vue 
-- [x] VueRouter
-- [x] NodeJs
+- [x] Vue@2.5.x
+- [x] VueRouter@3.x
+- [x] NodeJs@14.x
 
 + 前端路由除去一些如登录 / 注册等基本路由外，其他路由都是在登录后由后台返回；
 
